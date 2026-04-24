@@ -1,0 +1,6 @@
+.DS_Store
+*.pdb
+*.docx
+viewer_tmp/
+__pycache__/
+*.py[cod]

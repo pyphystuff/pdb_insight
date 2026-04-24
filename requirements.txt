@@ -1,0 +1,4 @@
+click
+biopython
+requests
+openai
